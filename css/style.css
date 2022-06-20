@@ -4,7 +4,6 @@ body {
 }
 
 .numfield {
-    display: line;
     line-height: 1.5rem;
     width: 200px;
 }
